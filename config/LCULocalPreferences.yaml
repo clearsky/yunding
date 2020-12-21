@@ -1,0 +1,7 @@
+lol-user-experience:
+    data:
+        hasBeenPromptedForPotatoMode: true
+        lastKnownMachineSpec: 5
+        potatoModeEnabled: true
+        unloadUxInGameEnabled: false
+    schemaVersion: 2

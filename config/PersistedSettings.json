@@ -1,0 +1,553 @@
+{
+    "description": "The settings in this file are persisted server-side. This file is generated automatically. Editing it is not recommended. Modify SettingsToPersist.json to specify which settings are persisted.",
+    "files": [
+        {
+            "name": "Game.cfg",
+            "sections": [
+                {
+                    "name": "Accessibility",
+                    "settings": [
+                        {
+                            "name": "ColorBrightness",
+                            "value": "0.5000"
+                        },
+                        {
+                            "name": "ColorContrast",
+                            "value": "0.5000"
+                        },
+                        {
+                            "name": "ColorGamma",
+                            "value": "0.5000"
+                        },
+                        {
+                            "name": "ColorLevel",
+                            "value": "0.5000"
+                        }
+                    ]
+                },
+                {
+                    "name": "Chat",
+                    "settings": [
+                        {
+                            "name": "ChatX",
+                            "value": "0"
+                        },
+                        {
+                            "name": "ChatY",
+                            "value": "0"
+                        },
+                        {
+                            "name": "EnableChatFilter",
+                            "value": "1"
+                        },
+                        {
+                            "name": "Transparency",
+                            "value": "0.0000"
+                        }
+                    ]
+                },
+                {
+                    "name": "FloatingText",
+                    "settings": [
+                        {
+                            "name": "Absorbed_Enabled",
+                            "value": "1"
+                        },
+                        {
+                            "name": "Countdown_Enabled",
+                            "value": "0"
+                        },
+                        {
+                            "name": "Debug_Enabled",
+                            "value": "1"
+                        },
+                        {
+                            "name": "Disable_Enabled",
+                            "value": "0"
+                        },
+                        {
+                            "name": "Dodge_Enabled",
+                            "value": "0"
+                        },
+                        {
+                            "name": "EnemyMagicalDamageCritical_Enabled",
+                            "value": "0"
+                        },
+                        {
+                            "name": "EnemyMagicalDamage_Enabled",
+                            "value": "0"
+                        },
+                        {
+                            "name": "EnemyPhysicalDamageCritical_Enabled",
+                            "value": "0"
+                        },
+                        {
+                            "name": "EnemyPhysicalDamage_Enabled",
+                            "value": "0"
+                        },
+                        {
+                            "name": "EnemyTrueDamageCritical_Enabled",
+                            "value": "0"
+                        },
+                        {
+                            "name": "EnemyTrueDamage_Enabled",
+                            "value": "0"
+                        },
+                        {
+                            "name": "Experience_Enabled",
+                            "value": "0"
+                        },
+                        {
+                            "name": "Gold_Enabled",
+                            "value": "0"
+                        },
+                        {
+                            "name": "Heal_Enabled",
+                            "value": "0"
+                        },
+                        {
+                            "name": "Invulnerable_Enabled",
+                            "value": "0"
+                        },
+                        {
+                            "name": "Level_Enabled",
+                            "value": "0"
+                        },
+                        {
+                            "name": "MagicalDamageCritical_Enabled",
+                            "value": "0"
+                        },
+                        {
+                            "name": "MagicalDamage_Enabled",
+                            "value": "0"
+                        },
+                        {
+                            "name": "ManaDamage_Enabled",
+                            "value": "0"
+                        },
+                        {
+                            "name": "ManaHeal_Enabled",
+                            "value": "0"
+                        },
+                        {
+                            "name": "OMW_Enabled",
+                            "value": "1"
+                        },
+                        {
+                            "name": "PhysicalDamageCritical_Enabled",
+                            "value": "0"
+                        },
+                        {
+                            "name": "PhysicalDamage_Enabled",
+                            "value": "0"
+                        },
+                        {
+                            "name": "PracticeToolDPS_Enabled",
+                            "value": "1"
+                        },
+                        {
+                            "name": "PracticeToolLastHit_Enabled",
+                            "value": "1"
+                        },
+                        {
+                            "name": "PracticeToolTotal_Enabled",
+                            "value": "1"
+                        },
+                        {
+                            "name": "QuestComplete_Enabled",
+                            "value": "0"
+                        },
+                        {
+                            "name": "QuestReceived_Enabled",
+                            "value": "0"
+                        },
+                        {
+                            "name": "ScoreDarkStar_Enabled",
+                            "value": "1"
+                        },
+                        {
+                            "name": "ScoreProject0_Enabled",
+                            "value": "1"
+                        },
+                        {
+                            "name": "ScoreProject1_Enabled",
+                            "value": "1"
+                        },
+                        {
+                            "name": "Score_Enabled",
+                            "value": "0"
+                        },
+                        {
+                            "name": "ShieldBonusDamage_Enabled",
+                            "value": "1"
+                        },
+                        {
+                            "name": "Special_Enabled",
+                            "value": "0"
+                        },
+                        {
+                            "name": "TrueDamageCritical_Enabled",
+                            "value": "0"
+                        },
+                        {
+                            "name": "TrueDamage_Enabled",
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "name": "General",
+                    "settings": [
+                        {
+                            "name": "AutoAcquireTarget",
+                            "value": "0"
+                        },
+                        {
+                            "name": "CfgVersion",
+                            "value": "9.20.8264"
+                        },
+                        {
+                            "name": "CursorOverride",
+                            "value": "0"
+                        },
+                        {
+                            "name": "CursorScale",
+                            "value": "0.5000"
+                        },
+                        {
+                            "name": "EnableLeftMouseButtonAttackMove",
+                            "value": "0"
+                        },
+                        {
+                            "name": "EnableScreenShake",
+                            "value": "1"
+                        },
+                        {
+                            "name": "EnableTargetedAttackMove",
+                            "value": "1"
+                        },
+                        {
+                            "name": "OSXMouseAcceleration",
+                            "value": "1"
+                        },
+                        {
+                            "name": "PredictMovement",
+                            "value": "0"
+                        },
+                        {
+                            "name": "RelativeTeamColors",
+                            "value": "1"
+                        },
+                        {
+                            "name": "ShowTurretRangeIndicators",
+                            "value": "0"
+                        },
+                        {
+                            "name": "SnapCameraOnRespawn",
+                            "value": "1"
+                        },
+                        {
+                            "name": "TargetChampionsOnlyAsToggle",
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "name": "HUD",
+                    "settings": [
+                        {
+                            "name": "CameraLockMode",
+                            "value": "0"
+                        },
+                        {
+                            "name": "DisableHudSpellClick",
+                            "value": "0"
+                        },
+                        {
+                            "name": "DisableMouseCaptureDebugger",
+                            "value": "0"
+                        },
+                        {
+                            "name": "EmotePopupUIDisplayMode",
+                            "value": "2"
+                        },
+                        {
+                            "name": "EnableLineMissileVis",
+                            "value": "1"
+                        },
+                        {
+                            "name": "EternalsMilestoneDisplayMode",
+                            "value": "0"
+                        },
+                        {
+                            "name": "FlipMiniMap",
+                            "value": "0"
+                        },
+                        {
+                            "name": "GlobalScale",
+                            "value": "1.0000"
+                        },
+                        {
+                            "name": "HideEnemySummonerEmotes",
+                            "value": "1"
+                        },
+                        {
+                            "name": "ItemShopItemDisplayMode",
+                            "value": "0"
+                        },
+                        {
+                            "name": "ItemShopPrevResizeHeight",
+                            "value": "768"
+                        },
+                        {
+                            "name": "ItemShopPrevResizeWidth",
+                            "value": "1024"
+                        },
+                        {
+                            "name": "ItemShopResizeHeight",
+                            "value": "0"
+                        },
+                        {
+                            "name": "ItemShopResizeWidth",
+                            "value": "0"
+                        },
+                        {
+                            "name": "ItemShopStartPane",
+                            "value": "1"
+                        },
+                        {
+                            "name": "KeyboardScrollSpeed",
+                            "value": "0.5000"
+                        },
+                        {
+                            "name": "MapScrollSpeed",
+                            "value": "0.5000"
+                        },
+                        {
+                            "name": "MiddleClickDragScrollEnabled",
+                            "value": "0"
+                        },
+                        {
+                            "name": "MiddleMouseScrollSpeed",
+                            "value": "0.5000"
+                        },
+                        {
+                            "name": "MinimapScale",
+                            "value": "1.0000"
+                        },
+                        {
+                            "name": "MirroredScoreboard",
+                            "value": "0"
+                        },
+                        {
+                            "name": "NameTagDisplay",
+                            "value": "1"
+                        },
+                        {
+                            "name": "NumericCooldownFormat",
+                            "value": "1"
+                        },
+                        {
+                            "name": "ObjectTooltips",
+                            "value": "0"
+                        },
+                        {
+                            "name": "PracticeToolScale",
+                            "value": "1.0000"
+                        },
+                        {
+                            "name": "ScrollSmoothingEnabled",
+                            "value": "0"
+                        },
+                        {
+                            "name": "ShowAttackRadius",
+                            "value": "1"
+                        },
+                        {
+                            "name": "ShowChampionIndicator",
+                            "value": "0"
+                        },
+                        {
+                            "name": "ShowHealthBarShake",
+                            "value": "0"
+                        },
+                        {
+                            "name": "ShowSpellCosts",
+                            "value": "0"
+                        },
+                        {
+                            "name": "ShowSummonerNames",
+                            "value": "0"
+                        },
+                        {
+                            "name": "ShowSummonerNamesInScoreboard",
+                            "value": "0"
+                        },
+                        {
+                            "name": "ShowTeamFramesOnLeft",
+                            "value": "0"
+                        },
+                        {
+                            "name": "SmartCastOnKeyRelease",
+                            "value": "0"
+                        },
+                        {
+                            "name": "SmartCastWithIndicator_CastWhenNewSpellSelected",
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "name": "LossOfControl",
+                    "settings": [
+                        {
+                            "name": "LossOfControlEnabled",
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performance",
+                    "settings": [
+                        {
+                            "name": "EnableHUDAnimations",
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "name": "TFTChat",
+                    "settings": [
+                        {
+                            "name": "ChatX",
+                            "value": "0"
+                        },
+                        {
+                            "name": "ChatY",
+                            "value": "276"
+                        }
+                    ]
+                },
+                {
+                    "name": "TFTHUD",
+                    "settings": [
+                        {
+                            "name": "EnableChat",
+                            "value": "1"
+                        }
+                    ]
+                },
+                {
+                    "name": "Voice",
+                    "settings": [
+                        {
+                            "name": "ShowVoiceChatHalos",
+                            "value": "1"
+                        },
+                        {
+                            "name": "ShowVoicePanelWithScoreboard",
+                            "value": "1"
+                        }
+                    ]
+                },
+                {
+                    "name": "Volume",
+                    "settings": [
+                        {
+                            "name": "AmbienceMute",
+                            "value": "1"
+                        },
+                        {
+                            "name": "AnnouncerMute",
+                            "value": "1"
+                        },
+                        {
+                            "name": "MasterMute",
+                            "value": "1"
+                        },
+                        {
+                            "name": "MusicMute",
+                            "value": "1"
+                        },
+                        {
+                            "name": "PingsMute",
+                            "value": "1"
+                        },
+                        {
+                            "name": "SfxMute",
+                            "value": "1"
+                        },
+                        {
+                            "name": "VoiceMute",
+                            "value": "1"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Input.ini",
+            "sections": [
+                {
+                    "name": "GameEvents",
+                    "settings": [
+                        {
+                            "name": "evtPlayerAttackMoveClick",
+                            "value": "[Shift] [Button 2]"
+                        },
+                        {
+                            "name": "evtPlayerMoveClick",
+                            "value": "[Button 2]"
+                        }
+                    ]
+                },
+                {
+                    "name": "HUDEvents",
+                    "settings": [
+                        {
+                            "name": "evntHudMoveableSelect",
+                            "value": "[Button 1]"
+                        },
+                        {
+                            "name": "evtOnUIMouse1",
+                            "value": "[Button 1],[Ctrl] [Button 1]"
+                        }
+                    ]
+                },
+                {
+                    "name": "Quickbinds",
+                    "settings": [
+                        {
+                            "name": "evtUseItem1smart",
+                            "value": "1"
+                        },
+                        {
+                            "name": "evtUseItem2smart",
+                            "value": "1"
+                        },
+                        {
+                            "name": "evtUseItem3smart",
+                            "value": "1"
+                        },
+                        {
+                            "name": "evtUseItem4smart",
+                            "value": "1"
+                        },
+                        {
+                            "name": "evtUseItem5smart",
+                            "value": "1"
+                        },
+                        {
+                            "name": "evtUseItem6smart",
+                            "value": "1"
+                        },
+                        {
+                            "name": "evtUseVisionItemsmart",
+                            "value": "1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

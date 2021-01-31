@@ -10,4 +10,8 @@ web中控发号,改密码,查看信息等
 代码是三天赶出来的,所以有点混乱,WEB中控代码也不知道扔哪去了。  
 今年用C++重新写了个,更智能的逻辑、更快速的反应、更完备的异常处理。  
 现招代理，联系:wajuejijiaoben@gmail.com  
-挖掘机脚本下载地址:https://wws.lanzous.com/b01tsemaf 密码:5s1b
+挖掘机脚本下载地址:[https://wws.lanzous.com/b01tsemaf](https://wws.lanzous.com/b01tsema) 密码:5s1b
+
+挖掘机界面和功能:  
+![登陆界面](https://i.loli.net/2021/01/31/91UGZWS2OlyspEV.png)
+![脚本界面](https://i.loli.net/2021/01/31/rc8zvFlu5Htys2S.png)

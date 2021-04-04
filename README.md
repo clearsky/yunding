@@ -13,5 +13,5 @@ web中控发号,改密码,查看信息等
 挖掘机脚本下载地址:[https://wws.lanzous.com/b01tsemaf](https://wws.lanzous.com/b01tsemaf) 密码:5s1b
 
 挖掘机界面和功能:  
-![登陆界面](https://i.loli.net/2021/01/31/91UGZWS2OlyspEV.png)
-![脚本界面](https://i.loli.net/2021/01/31/rc8zvFlu5Htys2S.png)
+![登陆界面](https://i.loli.net/2021/04/04/ih35e2bwty4dMIr.png)
+![脚本界面](https://i.loli.net/2021/04/04/p2xHCLiR9qA34QG.png)

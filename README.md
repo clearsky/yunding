@@ -12,10 +12,12 @@ web中控发号,改密码,查看信息等
 现招代理，联系:wajuejijiaoben@gmail.com  
 挖掘机脚本下载地址:[https://wws.lanzous.com/b01tsemaf](https://wws.lanzous.com/b01tsemaf) 密码:5s1b
 
+为了对应PC版封号,又开发了模拟器云游戏的版本
+
+飞机交流群:[英雄联盟刷代币交流群](https://t.me/joinchat/Wv4srTbHu-lkMDc1) ,欢迎大家入群交流
+
 挖掘机界面和功能:  
 ![登陆界面](https://i.loli.net/2021/04/04/ih35e2bwty4dMIr.png)
 ![脚本界面](https://i.loli.net/2021/04/04/p2xHCLiR9qA34QG.png)
 
-为了对应封号,又开发了模拟器云游戏的版本
 
-飞机交流群:[英雄联盟刷代币交流群](https://t.me/joinchat/Wv4srTbHu-lkMDc1) ,欢迎大家入群交流

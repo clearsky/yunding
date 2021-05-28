@@ -18,4 +18,4 @@ web中控发号,改密码,查看信息等
 
 为了对应封号,又开发了模拟器云游戏的版本
 
-飞机交流群:![英雄联盟刷代币交流群](https://t.me/joinchat/Wv4srTbHu-lkMDc1) ,欢迎大家入群交流
+飞机交流群:[英雄联盟刷代币交流群][https://t.me/joinchat/Wv4srTbHu-lkMDc1] ,欢迎大家入群交流

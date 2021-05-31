@@ -10,7 +10,7 @@ web中控发号,改密码,查看信息等
 代码是三天赶出来的,所以有点混乱,WEB中控代码也不知道扔哪去了。  
 今年用C++重新写了个,更智能的逻辑、更快速的反应、更完备的异常处理。  
 现招代理，联系:wajuejijiaoben@gmail.com  
-挖掘机脚本下载地址:[https://wws.lanzous.com/b01tsemaf](https://wws.lanzoui.com/b01tsemaf) 密码:5s1b
+挖掘机脚本下载地址:[https://wws.lanzoux.com/b01tsemaf](https://wws.lanzoui.com/b01tsemaf) 密码:5s1b
 
 为了对应PC版封号,又开发了模拟器云游戏的版本
 

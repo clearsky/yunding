@@ -13,7 +13,7 @@ web中控发号,改密码,查看信息等
 挖掘机脚本下载地址:[https://wws.lanzoux.com/b01tsemaf](https://wws.lanzoui.com/b01tsemaf) 密码:5s1b
 
 为了对应PC版封号,又开发了模拟器云游戏的版本
-
+目前有:PC版云顶/模拟器云游戏版云顶/PC版大乱斗
 飞机交流群:[英雄联盟刷代币交流群](https://t.me/joinchat/Wv4srTbHu-lkMDc1) ,欢迎大家入群交流
 
 挖掘机界面和功能:  

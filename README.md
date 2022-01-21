@@ -18,6 +18,12 @@ web中控发号,改密码,查看信息等
 QQ交流群:[点击链接加入群聊【云顶代币交流群挖掘机】:](https://jq.qq.com/?_wv=1027&k=ty2QthDq)  
 <img src="https://i.loli.net/2021/09/15/AxG5LsKDFlWv8Uy.jpg" height="480px" width="270px"> 
 
+近期用lcu api重构来了PC客户端的云顶脚本,lcu api能有更快的速度和更少的异常  
+界面部分还没全部完成,功能已经全部实现  
+登录界面:  
+<img src="https://s2.loli.net/2022/01/21/LaYr7f3nQZDoi8F.png">  
+脚本内部:  
+<img src="https://s2.loli.net/2022/01/21/xhlWNu1pEaIDT42.png">  
 为了应对日益强烈的封号,又开发了PC云游戏版本的脚本,用于多保一和单挂  
 挖掘机PC云游戏版界面和功能:  
 <img src="https://i.loli.net/2021/09/15/HtghDQb314kRuEG.png">  

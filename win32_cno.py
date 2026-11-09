@@ -854,10 +854,10 @@ class Lol:
 
         xg_config_path = os.path.join('xg', 'User.ini')
         json_data = None
-        with open(xg_config_path, 'r') as f:
+        with open(xg_config_path, 'r', encoding='utf-8') as f:
             json_data = json.load(f)
         json_data['proxy']['proxypath'][0]['path'] = self.game_path
-        with open(xg_config_path, 'w') as f:
+        with open(xg_config_path, 'w', encoding='utf-8') as f:
             json_text = json.dumps(json_data, ensure_ascii=False)
             f.write(json_text)
         logger.info('游戏配置文件替换完成')
